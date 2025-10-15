@@ -1,0 +1,24 @@
+Introduction
+
+Today I focused on understanding the advantages of user-defined functions in Python. While built-in functions are helpful, creating our own functions gives us complete control over the tasks our program performs. Functions are fundamental to writing organized, efficient, and reusable code.
+
+Learning Highlights
+
+Code Reusability
+User-defined functions allow us to write a block of code once and use it multiple times throughout a program. This saves time and reduces errors because we don’t have to rewrite the same logic repeatedly.
+
+Modular Programming
+Functions help break a large program into smaller, manageable parts. Each function can perform a specific task, making the program easier to understand, develop, and test.
+
+Readability and Maintainability
+Programs using functions are cleaner and easier to read. If a change is needed, it can be done in the function itself without affecting the rest of the program. This makes maintaining code much simpler.
+
+Simplified Debugging and Testing
+Since each function handles a separate task, errors can be detected and fixed more easily. Testing functions independently ensures that each part works correctly before integrating into the main program.
+
+Flexibility with Parameters and Return Values
+Functions can accept inputs (parameters) and provide outputs (return values). This makes them highly flexible and adaptable for different situations, rather than being hard-coded for a single purpose.
+
+Diary Note
+
+Today I realized the true power of user-defined functions. They are not just a way to organize code—they make programs efficient, reusable, and scalable. Using functions wisely can save hours of work, reduce mistakes, and improve the overall structure of a program.
