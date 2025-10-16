@@ -1,0 +1,16 @@
+Day 1 – Introduction to Python Programming and Environment Setup
+Introduction:
+
+The first day of training focused on understanding the fundamentals of Python programming and setting up the working environment. Python is one of the most popular programming languages due to its readability, versatility, and extensive library support. It serves as the foundation for fields like Data Science, Artificial Intelligence, and Machine Learning.
+
+Objective:
+
+To understand the basics of Python and configure the development environment for coding and data analysis.
+
+Procedure:
+
+The session began with installing Python 3.x, Jupyter Notebook, and Visual Studio Code (VS Code). I learned how to run scripts using both terminal commands and notebook cells. The instructor introduced Python’s syntax, indentation, and importance of writing clean, readable code. We also discussed the difference between compilers and interpreters and how Python executes code line by line. Simple programs like printing messages and performing arithmetic operations were executed.
+
+Learning Outcome:
+
+By the end of the day, I successfully configured my coding environment and wrote my first Python program. I understood how Python simplifies programming and sets a solid base for advanced concepts in Data Science and Machine Learning.
