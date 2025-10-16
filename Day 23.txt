@@ -1,0 +1,16 @@
+Day 23 – Model Evaluation and Optimization
+Introduction:
+
+Evaluating models ensures their accuracy and reliability.
+
+Objective:
+
+To assess model performance using validation metrics.
+
+Procedure:
+
+Metrics like accuracy, precision, recall, and F1-score were calculated. Cross-validation techniques were practiced for better model generalization.
+
+Learning Outcome:
+
+I learned to analyze model reliability using quantitative metrics and tuning.
