@@ -1,0 +1,16 @@
+Day 27 – Introduction to Automation and APIs
+Introduction:
+
+APIs automate data retrieval from online sources.
+
+Objective:
+
+To connect Python programs with APIs for real-time data access.
+
+Procedure:
+
+Requests library was used to fetch JSON data from public APIs. Weather and finance data examples were explored.
+
+Learning Outcome:
+
+I learned how APIs connect applications with live datasets, enabling dynamic analysis.
