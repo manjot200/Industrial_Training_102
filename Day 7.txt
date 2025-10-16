@@ -1,0 +1,16 @@
+Day 7 – Lists and Arrays in Python
+Introduction:
+
+Lists are one of the most powerful and flexible data structures in Python, used extensively for storing and processing collections of items. Arrays, similarly, are used when dealing with large volumes of numeric data efficiently.
+
+Objective:
+
+To learn how to create, modify, and manipulate lists and arrays for data handling tasks.
+
+Procedure:
+
+I practiced list creation, indexing, slicing, appending, and removing elements. Built-in methods like append(), insert(), sort(), remove(), and reverse() were explored. The difference between lists and arrays was demonstrated using the array module. The instructor also introduced nested lists and iterating through them with loops. Exercises included performing arithmetic operations on arrays and creating multi-dimensional lists.
+
+Learning Outcome:
+
+I understood how to store, update, and process collections of items dynamically. Lists and arrays proved essential for organizing datasets, a foundation for data preprocessing in machine learning tasks.
