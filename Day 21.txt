@@ -1,0 +1,16 @@
+Day 21 – Supervised Learning Algorithms
+Introduction:
+
+Supervised algorithms predict outcomes using labeled data.
+
+Objective:
+
+To implement classification and regression algorithms.
+
+Procedure:
+
+Logistic Regression, Decision Trees, and Random Forests were implemented using scikit-learn. Accuracy and confusion matrices were calculated.
+
+Learning Outcome:
+
+I gained confidence in using ML algorithms for predictive analytics.
