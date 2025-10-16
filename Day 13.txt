@@ -1,0 +1,16 @@
+Day 13 – Introduction to Matplotlib
+Introduction:
+
+Data visualization transforms raw data into meaningful graphical insights. Matplotlib is a core Python library for plotting graphs and charts.
+
+Objective:
+
+To understand basic plotting techniques using Matplotlib.
+
+Procedure:
+
+Using import matplotlib.pyplot as plt, I created line graphs, bar charts, and histograms. Plot customization techniques like labels, titles, legends, and colors were practiced. Datasets such as temperature readings and sales data were visualized to identify patterns. Grid lines and annotations were added for clarity.
+
+Learning Outcome:
+
+I learned to represent complex data visually, enabling better comprehension and communication of analytical results.
