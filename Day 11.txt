@@ -1,0 +1,16 @@
+Day 11 – Introduction to pandas
+Introduction:
+
+Pandas is a powerful library for data manipulation and analysis, built on top of NumPy. It provides high-performance, easy-to-use data structures.
+
+Objective:
+
+To learn about pandas DataFrames and Series for structured data handling.
+
+Procedure:
+
+I imported pandas using import pandas as pd and learned to create Series and DataFrames manually and from CSV files. Methods such as head(), info(), and describe() were used to explore datasets. Data selection and filtering using loc and iloc were practiced. Sample datasets like student marks and sales data were analyzed to understand real-world applications.
+
+Learning Outcome:
+
+I gained the ability to clean, manipulate, and analyze structured data efficiently using pandas — a skill central to any data science project.
