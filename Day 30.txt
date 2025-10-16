@@ -1,0 +1,18 @@
+Day 30: Graphical Visualization & Final Review
+
+Introduction:
+On Day 30, the focus was on graphical trend visualization and final project review. Visual representation of data helps in understanding weather patterns effectively, while reviewing ensures the application is reliable and user-friendly.
+
+Procedure:
+I used Matplotlib to create a temperature vs. time graph using the weather_log.csv dataset. Plot readability was improved with proper labels, rotation, and colors. The full application was then tested for edge cases, such as empty inputs, invalid city names, and missing CSV files. Additionally, UI responsiveness and error handling were enhanced to ensure smooth interaction. Screenshots of plots and outputs were captured for documentation and verification.
+
+Learning Objective:
+
+Learn to visualize trends effectively using Matplotlib.
+
+Test the application for robustness and reliability.
+
+Handle exceptions and edge cases in GUI-based projects.
+
+Learning Outcome:
+By the end of Day 30, the project was fully functional, including data logging, trend analysis, graphical visualization, and improved error handling. Users could obtain both textual and visual insights, marking the successful completion of Week 7 objectives.
