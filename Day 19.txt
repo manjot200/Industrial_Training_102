@@ -1,0 +1,16 @@
+Day 19 – Basics of Machine Learning
+Introduction:
+
+Machine Learning (ML) allows computers to learn from data and make predictions.
+
+Objective:
+
+To understand ML concepts, types, and workflow.
+
+Procedure:
+
+The instructor explained supervised and unsupervised learning, datasets, training, and testing. The scikit-learn library was introduced. Sample datasets were used to demonstrate model creation.
+
+Learning Outcome:
+
+I understood the structure of ML systems and how data influences model behavior.
