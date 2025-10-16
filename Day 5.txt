@@ -1,0 +1,16 @@
+Day 5 – Python Functions and Modular Programming
+Introduction:
+
+Functions are reusable blocks of code designed to perform specific tasks. This session introduced modular programming — the practice of breaking complex problems into smaller, manageable parts using functions.
+
+Objective:
+
+To define, call, and implement user-defined and built-in functions in Python.
+
+Procedure:
+
+The syntax for creating functions using the def keyword was discussed. I learned about parameters, arguments, return statements, and scope of variables. Built-in functions like len(), type(), max(), and sum() were practiced. Programs were written to perform mathematical operations, string manipulations, and list processing through custom functions. I also explored the concept of function reusability and debugging through modular design.
+
+Learning Outcome:
+
+I developed the ability to write organized and reusable code through functions. Understanding functional decomposition improved my logical thinking and prepared me for object-oriented programming.
