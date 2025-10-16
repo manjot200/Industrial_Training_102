@@ -1,0 +1,16 @@
+Day 12 – Data Cleaning and Preprocessing in pandas
+Introduction:
+
+Raw datasets often contain missing or inconsistent values. Data cleaning ensures reliability and accuracy in analysis.
+
+Objective:
+
+To handle missing data, duplicates, and incorrect entries using pandas.
+
+Procedure:
+
+I used methods like dropna(), fillna(), and replace() to manage missing values. The drop_duplicates() and rename() methods were used for removing redundant data and renaming columns. The instructor demonstrated handling categorical data using astype() and pd.get_dummies(). A real-world dataset with missing entries was cleaned systematically.
+
+Learning Outcome:
+
+I learned the importance of preprocessing before analysis. Clean data directly improves the performance and reliability of machine learning models.
