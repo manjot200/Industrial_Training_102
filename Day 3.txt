@@ -1,0 +1,16 @@
+Day 3 – Python Conditional Statements and Control Flow
+Introduction:
+
+Programming often involves decision-making, where specific actions depend on conditions. Today’s session focused on Python’s control flow statements — conditional logic that enables programs to make intelligent decisions.
+
+Objective:
+
+To learn and implement decision-making structures like if, elif, and else in Python.
+
+Procedure:
+
+The instructor explained Boolean logic and comparison operators used within conditions. I practiced writing programs that made decisions based on user inputs, such as checking eligibility, comparing numbers, and grading systems. Nested if statements and the use of logical connectors (and, or, not) were explored. We also discussed how indentation determines code blocks in Python.
+
+Learning Outcome:
+
+I learned how to control the program’s execution flow using logical conditions. This understanding is essential for implementing algorithms and data analysis models that rely on decision-based outcomes.
