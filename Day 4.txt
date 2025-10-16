@@ -1,0 +1,16 @@
+Day 4 – Python Loops and Iterations
+Introduction:
+
+Looping is a key programming concept used to repeat tasks efficiently without redundancy. This session focused on Python’s looping constructs and how they automate repetitive tasks.
+
+Objective:
+
+To understand and implement iterative statements such as for and while loops in Python.
+
+Procedure:
+
+I practiced using for loops to iterate over sequences like lists, tuples, and ranges. The while loop was used to execute tasks until specific conditions were met. I also explored loop control statements like break, continue, and pass. Example programs included factorial calculation, pattern generation, and list traversal. The instructor explained how iteration improves code efficiency and reduces redundancy.
+
+Learning Outcome:
+
+I learned to automate repetitive operations effectively using loops. This knowledge is particularly valuable for data processing, where repetitive actions on large datasets are common.
