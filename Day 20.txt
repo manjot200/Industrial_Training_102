@@ -1,0 +1,16 @@
+Day 20 – Data Splitting and Model Training
+Introduction:
+
+Splitting data ensures model performance is evaluated objectively.
+
+Objective:
+
+To learn about dataset partitioning and model training using scikit-learn.
+
+Procedure:
+
+I used train_test_split() to divide data. Models like Linear Regression were trained and tested. Error metrics such as MAE and RMSE were introduced.
+
+Learning Outcome:
+
+I learned how to prepare data for training and evaluate performance effectively.
