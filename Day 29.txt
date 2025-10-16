@@ -1,0 +1,18 @@
+Day 29: Analyzing Weather Trends
+
+Introduction:
+Day 29 focused on analyzing the logged weather data to extract trends and insights. Data analysis transforms raw information into actionable knowledge, enabling informed decision-making.
+
+Procedure:
+Using the pandas library, I read the weather_log.csv file. The first task was to compute average temperature and humidity to understand overall patterns. Next, the most recent weather entry was extracted to display the latest report. These insights were presented through tkinter.messagebox, providing interactive pop-ups for immediate understanding without manually inspecting the CSV. This functionality allowed users to quickly view summary statistics and recent weather updates, improving the overall user experience.
+
+Learning Objective:
+
+Learn to perform basic statistical analysis on logged datasets.
+
+Extract meaningful information efficiently from CSV files.
+
+Present insights through GUI pop-ups for user-friendly interaction.
+
+Learning Outcome:
+By the end of Day 29, the project could automatically generate trend reports. Users were able to view average weather metrics and the most recent conditions instantly. This enhanced the analytical capabilities of the application and prepared it for graphical visualization.
