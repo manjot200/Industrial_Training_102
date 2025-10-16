@@ -1,0 +1,16 @@
+Day 25 – Data Handling with CSV and Excel Files
+Introduction:
+
+Efficient data handling is essential for automating data analysis pipelines.
+
+Objective:
+
+To learn automated data loading and saving using pandas.
+
+Procedure:
+
+CSV and Excel operations were automated using loops. Data validation and error handling techniques were introduced.
+
+Learning Outcome:
+
+I improved my automation skills for practical applications in data management.
