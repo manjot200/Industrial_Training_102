@@ -1,0 +1,18 @@
+Day 28: Logging Weather Data
+
+Introduction:
+On Day 28, the focus was on logging weather data as part of the Weather Forecasting & Broadcasting project. Capturing weather data systematically is essential for performing meaningful analysis and trend evaluation later. Logging ensures that all real-time data can be stored and analyzed over time, enabling the application to provide accurate trend insights and historical comparisons.
+
+Procedure:
+I began by creating a CSV file (weather_log.csv) to store weather information. Using Python’s pandas library, every weather request made by the user was recorded and appended into this file. The key attributes logged included Date, City, Temperature, Humidity, and Weather Condition. Care was taken to append new entries without overwriting existing data, maintaining a complete historical record. This structured approach ensures that weather patterns can be tracked effectively and that the dataset grows dynamically as the app is used.
+
+Learning Objective:
+
+Understand how to store real-time data using CSV files.
+
+Learn the importance of data persistence in analytics projects.
+
+Gain practical experience in pandas-based data handling.
+
+Learning Outcome:
+By the end of Day 28, I successfully implemented a robust logging system. Multiple weather requests could now be recorded chronologically, providing a solid foundation for further trend analysis and visualization. This step ensured the project could produce meaningful insights over time.
