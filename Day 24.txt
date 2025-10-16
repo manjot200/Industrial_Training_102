@@ -1,0 +1,16 @@
+Day 24 – Visualization of Machine Learning Results
+Introduction:
+
+Visualizing ML outputs enhances interpretability.
+
+Objective:
+
+To plot model performance and predictions.
+
+Procedure:
+
+Confusion matrices, ROC curves, and scatter plots were visualized using Matplotlib. Comparative charts between models were created.
+
+Learning Outcome:
+
+I learned how visual feedback assists in evaluating and improving model efficiency.
