@@ -1,0 +1,16 @@
+Day 16 – Exploratory Data Analysis (EDA)
+Introduction:
+
+EDA is a critical step in any data science project that involves understanding data patterns and relationships before model building.
+
+Objective:
+
+To perform descriptive and visual analysis of datasets using pandas, Matplotlib, and Seaborn.
+
+Procedure:
+
+I used methods like describe(), corr(), and value_counts() to generate insights. Heatmaps and pairplots visualized correlations among variables. Case studies such as student marks and sales trends were analyzed for dependencies and outliers.
+
+Learning Outcome:
+
+I learned how to derive meaningful insights from raw data through EDA, preparing datasets for predictive modeling.
