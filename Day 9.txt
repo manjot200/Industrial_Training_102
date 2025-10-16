@@ -1,0 +1,16 @@
+Day 9 – Introduction to NumPy
+Introduction:
+
+NumPy (Numerical Python) is a fundamental library for scientific computing in Python, especially for data analysis and numerical operations.
+
+Objective:
+
+To understand and apply NumPy arrays for fast, efficient mathematical computation.
+
+Procedure:
+
+I installed and imported NumPy using import numpy as np. Concepts such as array creation, reshaping, indexing, slicing, and broadcasting were introduced. Mathematical operations like addition, mean, median, and standard deviation were computed using NumPy functions. The advantages of NumPy over lists in terms of memory efficiency and speed were demonstrated. Exercises included matrix addition, multiplication, and statistical operations.
+
+Learning Outcome:
+
+I learned how NumPy simplifies numerical computation and provides a strong foundation for advanced data analysis and machine learning workflows.
