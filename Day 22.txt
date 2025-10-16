@@ -1,0 +1,16 @@
+Day 22 – Unsupervised Learning Algorithms
+Introduction:
+
+Unsupervised learning identifies hidden structures in unlabeled data.
+
+Objective:
+
+To implement clustering algorithms like K-Means.
+
+Procedure:
+
+Using scikit-learn, I implemented K-Means and visualized clusters using Seaborn. Datasets were analyzed for pattern recognition.
+
+Learning Outcome:
+
+I learned to uncover hidden trends within datasets through clustering techniques.
