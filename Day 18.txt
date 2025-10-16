@@ -1,0 +1,16 @@
+Day 18 – Statistical Analysis Using Python
+Introduction:
+
+Statistical techniques form the backbone of data interpretation.
+
+Objective:
+
+To perform basic statistical computations using Python libraries.
+
+Procedure:
+
+Mean, median, mode, variance, and correlation were calculated using NumPy and pandas. I practiced hypothesis testing and correlation analysis using real-world datasets.
+
+Learning Outcome:
+
+I developed statistical thinking and learned to interpret results quantitatively, which aids in validating model accuracy.
