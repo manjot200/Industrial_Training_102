@@ -1,0 +1,16 @@
+Day 26 – File Handling and Exception Management
+Introduction:
+
+File handling enables interaction with external data sources.
+
+Objective:
+
+To learn Python’s file reading and exception-handling mechanisms.
+
+Procedure:
+
+Read/write operations using open() and error control with try-except were practiced. Log files were created for analysis tracking.
+
+Learning Outcome:
+
+I learned robust coding practices to manage errors and ensure smooth program execution.
