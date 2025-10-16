@@ -1,0 +1,16 @@
+Day 8 – Tuples, Sets, and Dictionaries
+Introduction:
+
+Python provides several collection data types — tuples, sets, and dictionaries — that serve different purposes in data storage and retrieval.
+
+Objective:
+
+To understand immutable and unordered data structures and their role in data analysis.
+
+Procedure:
+
+Tuples were introduced as immutable sequences ideal for fixed data. Sets were used for operations like union, intersection, and difference, which are useful for handling unique elements. Dictionaries, being key-value pairs, were explained for mapping relationships between data. I created examples where dictionaries stored student data and product details. Comparison between these structures helped me understand when to use each efficiently.
+
+Learning Outcome:
+
+By mastering these structures, I learned to manage structured and unstructured data effectively. Dictionaries, in particular, became a crucial part of my data organization workflow.
