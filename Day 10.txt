@@ -1,0 +1,16 @@
+Day 10 – Advanced NumPy Operations
+Introduction:
+
+Building upon previous knowledge, this session explored more advanced features of NumPy, including multidimensional arrays and mathematical functions.
+
+Objective:
+
+To perform advanced numerical manipulations using NumPy methods and multidimensional data.
+
+Procedure:
+
+I created and manipulated 2D and 3D arrays using np.array() and np.reshape(). Operations such as element-wise computation, matrix inversion, and transposition were performed. The instructor explained broadcasting rules and aggregate functions like np.sum(), np.mean(), and np.std(). I also explored random number generation using np.random. Exercises involved data normalization and matrix computation.
+
+Learning Outcome:
+
+I became proficient in handling large, multidimensional datasets efficiently. Understanding broadcasting and aggregation enhanced my problem-solving approach in data science computations.
