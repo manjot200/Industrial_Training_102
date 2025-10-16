@@ -1,0 +1,17 @@
+Day 6 – String Handling and Library Functions
+Introduction:
+
+Strings are one of the most essential data types in Python, especially in data analysis tasks involving textual information. Today’s session focused on string manipulation and the use of Python’s string library functions.
+
+Objective:
+
+To learn string operations, slicing, and manipulation using library functions.
+
+Procedure:
+
+I explored creating and modifying strings using operators and functions like upper(), lower(), strip(), replace(), split(), and join(). String indexing and slicing were practiced to extract substrings. Formatting methods such as f-strings and .format() were introduced to handle dynamic text outputs. The instructor emphasized the role of string handling in data cleaning and preprocessing.
+
+Learning Outcome:
+
+By the end of the session, I gained a deep understanding of string processing, which is crucial in data cleaning, text analytics, and natural language processing workflows.
+
