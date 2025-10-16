@@ -1,0 +1,16 @@
+Day 2 – Variables, Data Types, and Operators in Python
+Introduction:
+
+The second day deepened my understanding of Python’s basic building blocks — variables, data types, and operators. These are the core elements that define how data is stored, processed, and manipulated in any program.
+
+Objective:
+
+To learn how to declare variables, understand data types, and use different operators for data manipulation.
+
+Procedure:
+
+I explored primitive data types such as int, float, str, bool, and complex. Type conversion functions like int(), float(), and str() were used to switch between data forms. Arithmetic, relational, logical, and assignment operators were practiced using multiple examples. Additionally, I learned how Python dynamically assigns data types without explicit declaration, which makes it flexible for rapid development.
+
+Learning Outcome:
+
+By completing several coding exercises, I gained a strong grasp of how Python handles variables and operations. I realized that efficient data type management and operator use are key to writing optimized code for analytical tasks.
