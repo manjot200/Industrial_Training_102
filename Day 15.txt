@@ -1,0 +1,16 @@
+Day 15 – Introduction to Seaborn
+Introduction:
+
+Seaborn is a higher-level visualization library built on Matplotlib that provides attractive statistical plots.
+
+Objective:
+
+To explore statistical visualizations using Seaborn.
+
+Procedure:
+
+I imported Seaborn as import seaborn as sns and loaded sample datasets like “tips” and “iris.” Visuals such as histograms, boxplots, heatmaps, and pairplots were generated. The instructor demonstrated how Seaborn simplifies complex visualizations and adds aesthetics automatically.
+
+Learning Outcome:
+
+I learned how to explore and interpret data distributions and relationships visually, an important step in Exploratory Data Analysis (EDA).
