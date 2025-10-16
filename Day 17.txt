@@ -1,0 +1,16 @@
+Day 17 – Importing and Exporting Data
+Introduction:
+
+Efficient data input and output are essential in any data analysis workflow.
+
+Objective:
+
+To learn importing and exporting data using pandas and CSV formats.
+
+Procedure:
+
+I practiced reading and writing data using pd.read_csv() and df.to_csv(). File operations with Excel and JSON formats were also introduced. Path management and error handling were discussed for automation.
+
+Learning Outcome:
+
+I learned efficient methods to move data between applications, ensuring a smooth workflow during analysis and reporting.
