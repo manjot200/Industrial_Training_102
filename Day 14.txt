@@ -1,0 +1,16 @@
+Day 14 – Advanced Plotting and Customization
+Introduction:
+
+Advanced plotting techniques enhance data interpretation through aesthetic and comparative visuals.
+
+Objective:
+
+To create advanced and multi-dimensional visualizations using Matplotlib.
+
+Procedure:
+
+Subplots were introduced for comparative analysis. I created scatter plots, pie charts, and stacked bar graphs. Styling functions and figure layouts were explored to improve visualization quality. Exercises included visualizing stock prices and survey data comparisons.
+
+Learning Outcome:
+
+I developed advanced visualization skills essential for presenting data-driven conclusions effectively in research and reporting.
